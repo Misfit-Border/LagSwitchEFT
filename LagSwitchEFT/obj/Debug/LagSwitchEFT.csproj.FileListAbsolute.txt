@@ -1,0 +1,13 @@
+C:\Users\NoNaMeGod\Documents\Projects\LagSwitchEFT\LagSwitchEFT\LagSwitchEFT\obj\Debug\LagSwitchEFT.csprojAssemblyReference.cache
+C:\Users\NoNaMeGod\Documents\Projects\LagSwitchEFT\LagSwitchEFT\LagSwitchEFT\obj\Debug\LagSwitchEFT.Form1.resources
+C:\Users\NoNaMeGod\Documents\Projects\LagSwitchEFT\LagSwitchEFT\LagSwitchEFT\obj\Debug\LagSwitchEFT.Properties.Resources.resources
+C:\Users\NoNaMeGod\Documents\Projects\LagSwitchEFT\LagSwitchEFT\LagSwitchEFT\obj\Debug\LagSwitchEFT.csproj.GenerateResource.cache
+C:\Users\NoNaMeGod\Documents\Projects\LagSwitchEFT\LagSwitchEFT\LagSwitchEFT\bin\Debug\LagSwitchEFT.exe.config
+C:\Users\NoNaMeGod\Documents\Projects\LagSwitchEFT\LagSwitchEFT\LagSwitchEFT\bin\Debug\LagSwitchEFT.exe
+C:\Users\NoNaMeGod\Documents\Projects\LagSwitchEFT\LagSwitchEFT\LagSwitchEFT\bin\Debug\LagSwitchEFT.pdb
+C:\Users\NoNaMeGod\Documents\Projects\LagSwitchEFT\LagSwitchEFT\LagSwitchEFT\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\NoNaMeGod\Documents\Projects\LagSwitchEFT\LagSwitchEFT\LagSwitchEFT\bin\Debug\WindowsFirewallHelper.dll
+C:\Users\NoNaMeGod\Documents\Projects\LagSwitchEFT\LagSwitchEFT\LagSwitchEFT\bin\Debug\WindowsFirewallHelper.xml
+C:\Users\NoNaMeGod\Documents\Projects\LagSwitchEFT\LagSwitchEFT\LagSwitchEFT\obj\Debug\LagSwitchEFT.csproj.CopyComplete
+C:\Users\NoNaMeGod\Documents\Projects\LagSwitchEFT\LagSwitchEFT\LagSwitchEFT\obj\Debug\LagSwitchEFT.exe
+C:\Users\NoNaMeGod\Documents\Projects\LagSwitchEFT\LagSwitchEFT\LagSwitchEFT\obj\Debug\LagSwitchEFT.pdb
